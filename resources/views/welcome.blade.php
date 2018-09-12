@@ -51,7 +51,7 @@
 			<div class="container">
 				<div class="navigation_inner">
 					<div class="logo">
-						<a class="light_logo" href="index.html"><img src="img/logo/logo.png" alt="" /></a>
+						<a class="light_logo" href="index.html"><img src="img/logo/mart.png" alt="" /></a>
 					</div>
 					<div class="nav_list_wrap">
 						<div class="menu">
@@ -160,15 +160,16 @@
 								<div class="progress_bar_wrap_total">
 									<div class="edrea_tm_progress_wrap" data-size="small" data-round="c" data-strip="off">
 										<div class="edrea_tm_progress" data-value="95" data-color="#000">
-											<span><span class="label">Web Development</span><span class="number">95%</span></span>
+											<span><span class="label">Web Development[PHP-Laravel/ReactJS]</span><span class="number">95%</span></span>
 											<div class="edrea_tm_bar_bg"><div class="edrea_tm_bar_wrap"><div class="edrea_tm_bar"></div></div></div>
-										</div>
+                                        </div>
+                                        
 										<div class="edrea_tm_progress" data-value="85" data-color="#000">
 											<span><span class="label">Photoshop</span><span class="number">85%</span></span>
 											<div class="edrea_tm_bar_bg"><div class="edrea_tm_bar_wrap"><div class="edrea_tm_bar"></div></div></div>
 										</div>
 										<div class="edrea_tm_progress" data-value="75" data-color="#000">
-											<span><span class="label">3D MAX</span><span class="number">75%</span></span>
+											<span><span class="label">Mobile App Development[React Native] </span><span class="number">75%</span></span>
 											<div class="edrea_tm_bar_bg"><div class="edrea_tm_bar_wrap"><div class="edrea_tm_bar"></div></div></div>
 										</div>
 									</div>
