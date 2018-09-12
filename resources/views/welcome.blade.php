@@ -137,14 +137,14 @@
 				<div class="container">
 					<div class="edrea_tm_about_wrap">
 						<div class="author_wrap">
-							<div>
+							<div class="imagebox">
 								<div class="about_image_wrap" data-relative-input="true">
 									<div class="image layer" data-depth="0.1">
-										<img src="img/about/4.jpg" alt="" />
+										<img class="hidden-xs" src="img/about/4.jpg" alt="" />
 										<div class="inner"></div>
 									</div>
 									<div class="border layer" data-depth="0.2">
-										<img src="" alt="" />
+										<img class="hidden-xs" src="" alt="" />
 										<div class="inner"></div>
 									</div>
 								</div>
